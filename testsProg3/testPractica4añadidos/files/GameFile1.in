@@ -1,0 +1,10 @@
+put Carrier NORTH 4 0
+put Destroyer NORTH -1 4
+endput
+shoot 2 1
+shoot 2 2
+shoot 2 3
+shoot 2 4
+shoot 5 0
+shoot 5 1
+exit

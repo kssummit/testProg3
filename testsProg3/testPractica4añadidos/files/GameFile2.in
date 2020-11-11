@@ -1,0 +1,11 @@
+put Battleship NORTH 0 0
+put Destroyer NORTH 3 -1
+endput
+shoot 6 0
+shoot 6 1
+shoot 6 2
+shoot 6 3
+shoot 6 4
+shoot 1 5
+shoot 1 6
+exit
