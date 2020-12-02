@@ -1,0 +1,4 @@
+put Destroyer EAST 1 3
+put Carrier SOUTH 3 0
+put Battleship NORTH -2 -1
+shoot

@@ -1,0 +1,6 @@
+copiar estas dos carpetas en el directorio prog3-battleship
+(donde encuentras las carpetas bin, src, etc)
+
+Incluse test de practicas 1 al 4
+
+HECHO POR SAMUEL OLIVA
